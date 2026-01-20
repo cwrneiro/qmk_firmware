@@ -1,6 +1,6 @@
 # split_sakura
 
-![split_sakura](imgur.com image replace me!)
+![split_sakura](https://raw.githubusercontent.com/cwrneiro/qmk_firmware/refs/heads/master/keyboards/split_sakura/image/banner.png)
 
 
 * Keyboard Maintainer: [Augusto Carneiro](https://github.com/cwrneiro)
